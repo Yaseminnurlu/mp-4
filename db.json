@@ -1,0 +1,62 @@
+[
+  {
+  "id": "Cat 1",
+  "name": "Gandalf",
+  "age": "11",
+  "breed": "siamese",
+  "color": "Dark brown",
+  "dead or alive":"dead",
+  "Stray": "yes",
+  "Siblings": "no"
+  },
+  {
+    "id": "Cat 2",
+    "name": "Pancho",
+    "age": "9",
+    "breed": "British",
+    "color": "white and brown",
+    "dead or alive":"alive",
+    "Stray": "yes",
+    "Siblings": "no"
+  },
+  {
+    "id": "Cat 3",
+    "name": "Minnos",
+    "age": "8",
+    "breed": "Maine Coon",
+    "color": "white and grey",
+    "dead or alive":"alive",
+    "Stray": "no",
+    "Siblings": "no"
+  },
+  {
+    "id": "Cat 4",
+    "name": "Digir",
+    "age": "1",
+    "breed": "Persian cat",
+    "color": "light brown",
+    "dead or alive":"alive",
+    "Stray": "yes",
+    "Siblings": "yes"
+  },
+  {
+    "id": "Cat 4",
+    "name": "Elsa",
+    "age": "1",
+    "breed": "Ragdoll",
+    "color": "light brown",
+    "dead or alive":"alive",
+    "Stray": "yes",
+    "Siblings": "yes"
+  },
+  {
+    "id": "Cat 5",
+    "name": "Dost",
+    "age": "8",
+    "breed": "Burmese",
+    "color": "white and yellow",
+    "dead or alive":"alive",
+    "Stray": "yes",
+    "Siblings": ""
+  }
+]
