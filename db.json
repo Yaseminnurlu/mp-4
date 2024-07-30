@@ -1,4 +1,4 @@
-[
+{"cats":[
   {
   "id": "Cat 1",
   "name": "Gandalf",
@@ -60,3 +60,4 @@
     "Siblings": ""
   }
 ]
+}
