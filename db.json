@@ -37,7 +37,7 @@
     "color": "light brown",
     "life":"alive",
     "Stray": "yes",
-    "Siblings": "yes"
+    "Siblings": "yes, Elsa"
   },
   {
     "id": "Cat 4",
@@ -47,7 +47,7 @@
     "color": "light brown",
     "life":"alive",
     "Stray": "yes",
-    "Siblings": "yes"
+    "Siblings": "yes, Digir"
   },
   {
     "id": "Cat 5",
@@ -57,7 +57,7 @@
     "color": "white and yellow",
     "life":"alive",
     "Stray": "yes",
-    "Siblings": ""
+    "Siblings": "no"
   }
 ]
 }
