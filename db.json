@@ -6,8 +6,8 @@
   "breed": "siamese",
   "color": "Dark brown",
   "life":"dead",
-  "Stray": "yes",
-  "Siblings": "no"
+  "stray": "yes",
+  "siblings": "no"
   },
   {
     "id": "Cat 2",
@@ -16,8 +16,8 @@
     "breed": "British",
     "color": "white and brown",
     "life":"alive",
-    "Stray": "yes",
-    "Siblings": "no"
+    "stray": "yes",
+    "siblings": "no"
   },
   {
     "id": "Cat 3",
@@ -26,8 +26,8 @@
     "breed": "Maine Coon",
     "color": "white and grey",
     "life":"alive",
-    "Stray": "no",
-    "Siblings": "no"
+    "stray": "no",
+    "siblings": "no"
   },
   {
     "id": "Cat 4",
@@ -36,8 +36,8 @@
     "breed": "Persian cat",
     "color": "light brown",
     "life":"alive",
-    "Stray": "yes",
-    "Siblings": "yes, Elsa"
+    "stray": "yes",
+    "siblings": "yes, Elsa"
   },
   {
     "id": "Cat 4",
@@ -46,8 +46,8 @@
     "breed": "Ragdoll",
     "color": "light brown",
     "life":"alive",
-    "Stray": "yes",
-    "Siblings": "yes, Digir"
+    "stray": "yes",
+    "siblings": "yes, Digir"
   },
   {
     "id": "Cat 5",
@@ -56,8 +56,8 @@
     "breed": "Burmese",
     "color": "white and yellow",
     "life":"alive",
-    "Stray": "yes",
-    "Siblings": "no"
+    "stray": "yes",
+    "siblings": "no"
   }
 ]
 }
